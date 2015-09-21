@@ -11,13 +11,14 @@ The main principle is :
  This process can be captured with the photosensitive element. 
  Such capillary pulsation can be reflected by periodically changing the screen brightness.
 
+#When the fringertip on the camera head
 ![Screen Shot](images/NormalStatus.png.png)
 
-#When the fringertip on the camera head
 
 
 
-
-![Screen Shot](images/AbnormalStatus.png)
 
 #When not the fringertip on the camera head
+![Screen Shot](images/AbnormalStatus.png)
+
+
