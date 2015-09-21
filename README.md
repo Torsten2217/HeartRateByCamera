@@ -13,8 +13,11 @@ The main principle is :
 
 ![Screen Shot](images/NormalStatus.png.png)
 
-##When the fringertip on the camera head
+#When the fringertip on the camera head
+
+
+
 
 ![Screen Shot](images/AbnormalStatus.png)
 
-##When not the fringertip on the camera head
+#When not the fringertip on the camera head
